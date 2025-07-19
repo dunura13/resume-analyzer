@@ -20,6 +20,7 @@ ENV/
 # OS generated files
 .DS_Store
 
+
 # pytest cache (if you use pytest)
 .pytest_cache/
 
