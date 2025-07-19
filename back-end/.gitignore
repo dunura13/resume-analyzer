@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables file
+.env
+
+# VSCode settings (optional)
+.vscode/
+
+# Python virtual environment folders (if inside backend)
+venv/
+env/
+ENV/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+
+# pytest cache (if you use pytest)
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# mypy cache
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+
+
+
